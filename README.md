@@ -2,13 +2,13 @@
 
 ## 👨‍💻 Coding Profiles
 
-- 🟡 LeetCode: https://leetcode.com/u/YOUR_USERNAME/
-- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/
+- 🟡 LeetCode: https://leetcode.com/u/3HVdrwLPsi/
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/sy876engo?from=explore&tab=activity
 
 ## 📊 DSA Progress
 
-- ✅ LeetCode: 124+ Problems
-- ✅ GeeksforGeeks: 70+ Problems
+- ✅ LeetCode: 125+ Problems
+- ✅ GeeksforGeeks: 75+ Problems
 - 💻 Language: C++
 
 ## 🛠 Skills
